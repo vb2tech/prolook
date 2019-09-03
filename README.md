@@ -1,2 +1,2 @@
 # prolook
-Prolookdata collection from ptsport supliers 
+Data collection from ptsport supliers 
